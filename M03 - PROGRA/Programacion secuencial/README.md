@@ -1,6 +1,6 @@
 ## Perfiles de GitHub de las personas colaboradoras:
 1. [S4rg0n](https://github.com/S4rg0n)
-2. [Borja](https://github.com/Borjaff19)
+2. [Borjaff](https://github.com/Borjaff19)
 3. [insodel](https://github.com/insodel)
 
 ## Ejercicios:
