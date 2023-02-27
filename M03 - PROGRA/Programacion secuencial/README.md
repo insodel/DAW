@@ -1,5 +1,6 @@
 ## Perfiles de GitHub de las personas colaboradoras:
 1. [S4rg0n](https://github.com/S4rg0n)
+2. [insodel](https://github.com/insodel)
 
 ## Ejercicios:
 
