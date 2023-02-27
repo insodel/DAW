@@ -1,5 +1,5 @@
 
-#### Ejercicios:
+## Ejercicios:
 
 1. Área y perímetro de una circunferencia
 2. [Media de tres números](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/media-de-tres-num.cs)
