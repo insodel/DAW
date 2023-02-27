@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TranformaciónTiempo
+namespace TranformacionTiempo
 {
     class Program
     {
