@@ -5,7 +5,7 @@
 ## Ejercicios:
 
 1. Área y perímetro de una circunferencia:
-&nbsp;&nbsp;1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/1_circunferencia_S4rg0n.cs)
+    1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/1_circunferencia_S4rg0n.cs)
 2. Media de tres números
 &nbsp;&nbsp;&nbsp;&nbsp;1. [Media de tres números (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/media-de-tres-num.cs)
 &nbsp;&nbsp;&nbsp;&nbsp;2. [Media de tres números (Hecho por Borja)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/ConversorEurospesetasBorja.cs)
