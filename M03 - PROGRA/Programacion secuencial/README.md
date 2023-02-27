@@ -25,6 +25,7 @@
 9. Repartos proporcionales de lotería
     1. [Repartos proporcionales de lotería (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/9_Reparto_loteria_S4rg0n.cs)
 10. Transformación de segundos en horas, minutos, segundos
+    1. [Transformación de segundos en horas, minutos, segundos (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/10_TransformacionTienpo.cs)
 11. Resultados de una encuesta en porcentajes
 12. Cálculo del espacio de disco real ocupado por un fichero
 13. Tablero de ajedrez
