@@ -21,7 +21,7 @@
 7. Coste de la gasolina en un viaje
     1. [Coste de la gasolina en un viaje (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/7_coste_viaje_S4rg0n.cs)
 8. Coste de la gasolina a 5L de gasolina por cada 100km recorridos
-    1. [Coste de la gasolina en un viaje a 5L/100km (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/8_euros_pesetas_S4rg0n.cs)
+    1. [Coste de la gasolina en un viaje a 5L/100km (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/8_viaje5litros_S4rg0n.cs)
 9. Repartos proporcionales de lotería
     1. [Repartos proporcionales de lotería (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/9_Reparto_loteria_S4rg0n.cs)
 10. Transformación de segundos en horas, minutos, segundos
