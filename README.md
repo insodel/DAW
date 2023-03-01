@@ -1,7 +1,7 @@
 # Recopilación de ejercicios realizados en DAW
 
 ### Perfiles de GitHub de las personas colaboradoras:    (para aparecer aquí, manda tu solución a alguno de los ejercicios)
-1. [S4rg0n](https://github.com/S4rg0n)
+1. [S4rg0n (Moisés)](https://github.com/S4rg0n)
 2. [Borjaff](https://github.com/Borjaff19)
 3. [insodel (Aitor)](https://github.com/insodel)
 4. [Astarthean (Ana)](https://github.com/Astarthean)
