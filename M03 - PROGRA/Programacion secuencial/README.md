@@ -4,6 +4,8 @@
 3. [insodel (A)](https://github.com/insodel)
 4. [Astarthean (Ana)](https://github.com/Astarthean)
 
+## Ejercicios Programación A - secuencial:
+
 1. Área y perímetro de una circunferencia:
     1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_circunferencia_S4rg0n.cs)
     2. [Área y perímetro de una circunferencia (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/areaperimetroCirculo_Anna.cs)
