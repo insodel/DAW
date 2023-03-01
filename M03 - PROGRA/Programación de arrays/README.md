@@ -1,3 +1,9 @@
+## Perfiles de GitHub de las personas colaboradoras:
+1. [S4rg0n (Moisés)](https://github.com/S4rg0n)
+2. [Borjaff](https://github.com/Borjaff19)
+3. [insodel (Aitor)](https://github.com/insodel)
+4. [Astarthean (Ana)](https://github.com/Astarthean)
+
 ## Ejercicios programación de arrays
 
 1. Array de diez elementos que se rellena con 5 cifras más de su posición.
