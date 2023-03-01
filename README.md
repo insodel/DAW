@@ -4,7 +4,7 @@
 1. [S4rg0n](https://github.com/S4rg0n)
 2. [Borjaff](https://github.com/Borjaff19)
 3. [insodel (Aitor)](https://github.com/insodel)
-4. [Astarthean (Ana)] (https://github.com/Astarthean)
+4. [Astarthean (Ana)](https://github.com/Astarthean)
 
 ## Ejercicios programación secuencial:
 
