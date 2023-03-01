@@ -10,7 +10,7 @@
 
 1. Área y perímetro de una circunferencia:
     1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_circunferencia_S4rg0n.cs)
-    2. [Área y perímetro de una circunferencia (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/areaperimetroCirculo_Anna.cs)
+    2. [Área y perímetro de una circunferencia (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/areaperimetroCirculo_Ana.cs)
 2. Media de tres números
     1. [Media de tres números (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/media-de-tres-num.cs)
     2. [Media de tres números (Hecho por Borja)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/ConversorEurospesetasBorja.cs)
