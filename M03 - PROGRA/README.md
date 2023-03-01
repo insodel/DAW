@@ -36,7 +36,7 @@
     1. [Array de diez elementos (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/arrays-6-aitor.cs)
     
 2. Array donde el usuario elige el número de elementos y se rellena el array con los múltiplos de otro número pedido por input
-
+    1. [Array donde el usuario elige el número de elementos y se rellena (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/progamacionarraysAitor2.cs)
 3. Dos arrays del mismo tamaño elegido por el usuario. Uno almacena strings de nombres, el otro cálcula la longitud de los nombres.
 
 4. Array de 100 números aleatorios. El usuario elige un número, el programa lo busca e indica cuantas veces aparece y en qué posiciones.
