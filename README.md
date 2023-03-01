@@ -6,7 +6,7 @@
 3. [insodel (Aitor)](https://github.com/insodel)
 4. [Astarthean (Ana)](https://github.com/Astarthean)
 
-## Ejercicios programación secuencial:
+## Ejercicios Programación A - secuencial:
 
 1. Área y perímetro de una circunferencia:
     1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_circunferencia_S4rg0n.cs)
@@ -38,7 +38,7 @@
     1. [Cálculo de precio final tras un descuento (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/progamacionsecAitor14.cs)
 15. Cálculo de los pagos mensuales de una hipoteca a partir del capital prestado
 
-## Ejercicios programación de arrays
+## Ejercicios Programación A - arrays
 
 1. Array de diez elementos que se rellena con 5 cifras más de su posición.
     1. [Array de diez elementos (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/arrays-6-aitor.cs)
