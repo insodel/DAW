@@ -5,19 +5,23 @@
 2. [Borjaff](https://github.com/Borjaff19)
 3. [insodel (Aitor)](https://github.com/insodel)
 4. [Astarthean (Ana)](https://github.com/Astarthean)
+5. [Wylltriu (Guille)](https://github.com/Wylltriu)
 
 ## Ejercicios Programación A - secuencial:
 
 1. Área y perímetro de una circunferencia:
     1. [Área y perímetro de una circunferencia (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_circunferencia_S4rg0n.cs)
     2. [Área y perímetro de una circunferencia (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/areaperimetroCirculo_Ana.cs)
+    3. [Área y perímetro de una circunferencia (Hecho por Wylltriu)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_Circumferencia_Wylltriu.cs)
 2. Media de tres números
     1. [Media de tres números (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/media-de-tres-num.cs)
     2. [Media de tres números (Hecho por Borja)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/ConversorEurospesetasBorja.cs)
     3. [Media de tres números (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/mediaNumeros_Anna.cs)
+    4. [Media de tres números (Hecho por Wylltriu)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/2_Media_3_valores_Wylltriu.cs)
 3. Conversor euros/pesetas
     1. [Conversor euros a pesetas (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/conversor-euro-pesetas.cs)
     2. [Conversor euros a pesetas (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/eurosPesetas_Ana.cs)
+    3. [Conversor euros a pesetas (Hecho por Wylltriu)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/3_Conversor_euro_pesetas_Wylltriu.cs)
 4. Área de un triángulo
     1. [Altura de un triángulo (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/area-triangulo.cs)
     2. [Altura de un triángulo (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/areaTriangulo_Ana.cs)
