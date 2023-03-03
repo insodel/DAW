@@ -48,6 +48,7 @@
 12. Cálculo del espacio de disco real ocupado por un fichero
 13. Tablero de ajedrez
     1. [Tablero de ajedrez hecho con arrays 2D(Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/progamacionsecAitor13.cs)
+    2. [Tablero de ajedrez hecho con arrays 2D(S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/13_Ajedrez.cs)
 14. Cálculo de precio final tras un descuento
     1. [Cálculo de precio final tras un descuento (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/progamacionsecAitor14.cs)
 15. Cálculo de los pagos mensuales de una hipoteca a partir del capital prestado
