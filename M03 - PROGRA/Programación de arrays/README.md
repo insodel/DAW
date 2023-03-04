@@ -25,7 +25,7 @@
 7. **Programa que permite calcular el número de billetes y monedas de una cantidad pasada por input**
 
 8. **Dado un array de números de 5 posiciones con números aleatorios, lo guarde en un nuevo array pero invertido.**
-
+    1. [(Aitor) Dado un array de números de 5 posiciones con números aleatorios, lo guarde en un nuevo array pero invertido](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/8arrays.cs)
 9. **Dado un array de números de 10 posiciones con números aleatorios busque el mayor y muestre su posición.**
 
 10. **Dado un array de números de 10 posiciones con números aleatorios, los guarde en otro array ordenado ascendente. NO se puede usar Sort.**
