@@ -16,11 +16,11 @@
 3. **Dos arrays del mismo tamaño elegido por el usuario. Uno almacena strings de nombres, el otro cálcula la longitud de los nombres**
     1. [Dos arrays del mismo tamaño elegido por el usuario. Uno almacena strnings (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/arrays3aitor.cs)
 4. **Array de 100 números aleatorios. El usuario elige un número, el programa lo busca e indica cuantas veces aparece y en qué posiciones**
-
+    1. [(Aitor) Array de 100 números aleatorios. El usuario elige un número, el programa lo busca e indica cuantas veces aparece y en qué posiciones](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/4arraysAitor.cs)
 5. **Realiza un programa con un array con N notas de 0 a 20, calcule el promedio de aprobados y promedio de suspensos**
 
 6. **Dos array de diez elementos, sumados en un nuevo array y mostrará los tres**
-
+    1. [(Aitor) Dos array de diez elementos, sumados en un nuevo array y mostrará los tres](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/6arraysAitor.cs)
 7. **Programa que permite calcular el número de billetes y monedas de una cantidad pasada por input**
 
 8. **Dado un array de números de 5 posiciones con números aleatorios, lo guarde en un nuevo array pero invertido.**
