@@ -5,6 +5,7 @@
 4. [Astarthean (Ana)](https://github.com/Astarthean)
 5. [Wylltriu (Guille)](https://github.com/Wylltriu)
 6. [Matias-14 (Matías)](https://github.com/Matias-14)
+7. [Aren](https://github.com/Aren1709)
 
 ## Ejercicios Programación A - arrays
 
