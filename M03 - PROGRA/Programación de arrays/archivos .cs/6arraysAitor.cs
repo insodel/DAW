@@ -11,7 +11,7 @@ namespace ConsoleApp20
             int[] arrayDos = new int[n] {2, 1, 2, 1, 2, 3, 4, 5, 2, 1}; //funcionamiento del algoritmo
             int[] arrayFinal = new int[n];
 
-            for (int i = 0, j = 0; i < 10; i++) //usamos i y j como índices de los arrays
+            for (int i = 0, j = 0; i < n; i++) //usamos i y j como índices de los arrays
             {
                 arrayFinal[i] = arrayUno[i] + arrayDos[j];
                 Console.WriteLine("La posición " + i + " del array uno tiene como valor " + arrayUno[i]);
