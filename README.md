@@ -1,6 +1,16 @@
 # Recopilación de ejercicios realizados en DAW
 
-### Perfiles de GitHub de las personas colaboradoras:    (para aparecer aquí, manda tu solución a alguno de los ejercicios)
+
+## Tabla de contenidos
+- [Perfiles de GitHub de las personas colaboradoras](https://github.com/insodel/DAW/edit/main/README.md#perfiles-colaboradores)
+- [Ejercicios de las videotutorías (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-de-las-vt)
+- [Ejercicios de programación secuencial (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-programaci%C3%B3n-a---secuencial)
+- [Ejercicios de programación con arrays (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-programaci%C3%B3n-a---arrays)
+
+
+## Perfiles colaboradores: 
+(para aparecer aquí, sube tu solución a alguno de los ejercicios)
+
 1. [S4rg0n (Moisés)](https://github.com/S4rg0n)
 2. [Borjaff](https://github.com/Borjaff19)
 3. [insodel (Aitor)](https://github.com/insodel)
