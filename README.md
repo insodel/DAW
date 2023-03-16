@@ -2,10 +2,10 @@
 
 
 ## Tabla de contenidos
-- [Perfiles de GitHub de las personas colaboradoras](https://github.com/insodel/DAW/edit/main/README.md#perfiles-colaboradores)
-- [Ejercicios de las videotutorías (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-de-las-vt)
-- [Ejercicios de programación secuencial (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-programaci%C3%B3n-a---secuencial)
-- [Ejercicios de programación con arrays (M03)](https://github.com/insodel/DAW/edit/main/README.md#ejercicios-programaci%C3%B3n-a---arrays)
+- [Perfiles de GitHub de las personas colaboradoras](#perfiles-colaboradores)
+- [Ejercicios de las videotutorías (M03)](#ejercicios-de-las-vt)
+- [Ejercicios de programación secuencial (M03)](#ejercicios-programaci%C3%B3n-a---secuencial)
+- [Ejercicios de programación con arrays (M03)](#ejercicios-programaci%C3%B3n-a---arrays)
 
 
 ## Perfiles colaboradores: 
