@@ -3,13 +3,14 @@
 
 ## Tabla de contenidos
 - [Perfiles de GitHub de las personas colaboradoras](#perfiles-colaboradores)
+- [Descripción del proyecto y exposición de motivos (pendiente)](#)
 - [Ejercicios de las videotutorías (M03)](#ejercicios-de-las-vt)
 - [Ejercicios de programación secuencial (M03)](#ejercicios-programaci%C3%B3n-a---secuencial)
 - [Ejercicios de programación con arrays (M03)](#ejercicios-programaci%C3%B3n-a---arrays)
 
 
 ## Perfiles colaboradores: 
-(para aparecer aquí, sube tu solución a alguno de los ejercicios)
+(si quieres colaborar y no sabes cómo, ¡pregúntanos por Discord!)
 
 1. [S4rg0n (Moisés)](https://github.com/S4rg0n)
 2. [Borjaff](https://github.com/Borjaff19)
