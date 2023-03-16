@@ -1,4 +1,4 @@
-## Espacio para subir los ejercicios 'Ponte a prueba' y otros.
+## Ejercicios de las VT.
 
 1. (UF1 - VT4) Ejercicio voluntario 1: A partir de un número de días ingresado por pantalla (teclado), determina cúantos años, meses, semanas y días son. Supón que todos los meses son de 30 días.
 2. (UF1 - VT4) Ejercicio voluntario 2: Declara un vector de números enteros tamaño 10, que pida los valores por teclado y que cuente los números pares que tiene.
