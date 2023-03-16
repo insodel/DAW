@@ -2,11 +2,12 @@
 
 
 ## Tabla de contenidos
-- [Perfiles de GitHub de las personas colaboradoras](#perfiles-colaboradores)
-- [Descripción del proyecto y exposición de motivos (pendiente)](#)
-- [Ejercicios de las videotutorías (M03)](#ejercicios-de-las-vt)
-- [Ejercicios de programación secuencial (M03)](#ejercicios-programaci%C3%B3n-a---secuencial)
-- [Ejercicios de programación con arrays (M03)](#ejercicios-programaci%C3%B3n-a---arrays)
+1. [Perfiles de GitHub de las personas colaboradoras](#perfiles-colaboradores)
+2. [Descripción del proyecto y exposición de motivos (pendiente)](#)
+3. [Programación A (todos los ejercicios)](https://github.com/insodel/DAW/M03%20-%20PROGRA)
+    1. [Ejercicios de las videotutorías (M03)](#ejercicios-de-las-vt)
+    2. [Ejercicios de programación secuencial (M03)](#ejercicios-programaci%C3%B3n-a---secuencial)
+    3. [Ejercicios de programación con arrays (M03)](#ejercicios-programaci%C3%B3n-a---arrays)
 
 
 ## Perfiles colaboradores: 
