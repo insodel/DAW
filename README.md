@@ -35,7 +35,7 @@
 5. Programa que permita ingresar un array de números enteros y que muestre todos los elementos duplicados en el array.
     1.
 6. Programa que pida al usuario que ingrese una cadena de caracteres y mostrar en pantalla si es un palíndromo o no (es decir, si se lee igual de izquierda a derecha que de derecha a izquierda).
-    1.
+    1. [(Aitor) Programa que pida al usuario que ingrese una cadena de caracteres y mostrar en pantalla si es un palíndromo o no (es decir, si se lee igual de izquierda a derecha que de derecha a izquierda](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Ejercicios%20programaci%C3%B3n%20desde%201/archivos%20.cs/Aitor6ProgramacionDesde1.cs)
     
 
 ## Ejercicios de las VT.
