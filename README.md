@@ -30,6 +30,7 @@
     3. [Área y perímetro de una circunferencia (Hecho por Wylltriu)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1_Circumferencia_Wylltriu.cs)
     4. [Área y perímetro de una circunferencia (Hecho por Matias-14)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/ejercicio_1_Matias.cs)
     5. [Área y perímetro de una circunferencia (Hecho por Aren)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1.%20Calculo%20Area%20y%20Perimetro%20del%20Circulo_Aren.cs)
+    6. [Área y perímetro de uan circunferencia (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/1progSecuencialAitor.cs)
 2. **Media de tres números**
     1. [Media de tres números (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/media-de-tres-num.cs)
     2. [Media de tres números (Hecho por Borja)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/ConversorEurospesetasBorja.cs)
@@ -53,6 +54,7 @@
     2. [Hipotenusa de un rectángulo (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/hipotenusaTriangulo_Ana.cs)
     3. [Hipotenusa de un rectángulo (Hecho por Matias-14)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/Ejercicio_5_Matias.cs)
     4. [Hipotenusa de un rectángulo (Hecho por Aren)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/5.%20Hipotenusa%20Rectangulo_Aren.cs)
+    5. [Hipotenusa de un rectángulo (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/5progSecuencialAitor.cs)
 6. **Área de una corona circular**
     1. [Área de una corona circular (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/6_corona_S4rg0n.cs)
     2. [Área de una corona circular (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/coronaCircular_Ana.cs)
