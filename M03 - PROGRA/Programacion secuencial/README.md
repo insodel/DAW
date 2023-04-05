@@ -39,6 +39,7 @@
     2. [Hipotenusa de un rectángulo (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/hipotenusaTriangulo_Ana.cs)
     3. [Hipotenusa de un rectángulo (Hecho por Matias-14)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/Ejercicio_5_Matias.cs)
     4. [Hipotenusa de un rectángulo (Hecho por Aren)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/5.%20Hipotenusa%20Rectangulo_Aren.cs)
+    5. [Hipotenusa de un rectángulo (Hecho por Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/5progSecuencialAitor.cs)
 6. **Área de una corona circular**
     1. [Área de una corona circular (Hecho por S4rg0n)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/6_corona_S4rg0n.cs)
     2. [Área de una corona circular (Hecho por Ana)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programacion%20secuencial/archivos%20.cs/coronaCircular_Ana.cs)
