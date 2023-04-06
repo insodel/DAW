@@ -29,3 +29,4 @@
 9. **Dado un array de números de 10 posiciones con números aleatorios busque el mayor y muestre su posición.**
 
 10. **Dado un array de números de 10 posiciones con números aleatorios, los guarde en otro array ordenado ascendente. NO se puede usar Sort.**
+    1. [Ordenar un array sin usar Sort (Aitor)](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/Aitor10Arrays.cs)
