@@ -105,11 +105,13 @@
     1. [(Aitor) Array de 100 números aleatorios. El usuario elige un número, el programa lo busca e indica cuantas veces aparece y en qué posiciones](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/4arraysAitor.cs)
     
 5. **Realiza un programa con un array con N notas de 0 a 20, calcule el promedio de aprobados y promedio de suspensos**
-
+    1. [Realiza un programa con un array con N notas (Aitor)] (https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/arrays5Aitor.cs)
+    
 6. **Dos array de diez elementos, sumados en un nuevo array y mostrará los tres**
     1. [(Aitor) Dos array de diez elementos, sumados en un nuevo array y mostrará los tres](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/6arraysAitor.cs)
-    
+
 7. **Programa que permite calcular el número de billetes y monedas de una cantidad pasada por input**
+    1. [Programa que permite calcular el número de billetes y monedas (Aitor)] (https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/arrays7Aitor.cs)
 
 8. **Dado un array de números de 5 posiciones con números aleatorios, lo guarde en un nuevo array pero invertido.**
     1. [(Aitor) Dado un array de números de 5 posiciones con números aleatorios, lo guarde en un nuevo array pero invertido](https://github.com/insodel/DAW/blob/main/M03%20-%20PROGRA/Programaci%C3%B3n%20de%20arrays/archivos%20.cs/8arrays.cs)
